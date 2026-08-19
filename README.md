@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Miguel Henrique — Artificial Intelligence, Automation and Software" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Miguel Henrique — AI • Automation • Software" width="100%" />
 
 <br>
 
@@ -127,6 +127,13 @@ I'm especially interested in:
 - **Python** — Udemy
 - **JavaScript** — Meta / Coursera
 
+## 📌 Quick links
+
+- **GitHub Profile:** https://github.com/MiguelHenriqueAIDEV
+- **Tiny Desktop Automation:** https://github.com/MiguelHenriqueAIDEV/tiny-desktop-automation
+- **PurpleRBX:** https://github.com/MiguelHenriqueAIDEV/purple-rbx
+- **PurpleRBX Live:** https://purplerbx.pages.dev/
+
 ## 📌 What I'm building next
 
 I'm continuously improving this portfolio with real project documentation, source code when publishable, screenshots, prompt-engineering logs and technical case studies.
@@ -137,6 +144,6 @@ I'm continuously improving this portfolio with real project documentation, sourc
 
 ### Building practical products with code + AI.
 
-**AI · Automation · Web · Cloud**
+**AI · Automation · Software · Cloud**
 
 </div>
