@@ -53,6 +53,18 @@ Sales-focused landing page developed through an **AI-assisted web development wo
 </tr>
 </table>
 
+## 🔗 Technical case study
+
+### Payment Webhook Automation
+
+Event-driven payment automation focused on **webhooks, idempotency, persistent state and business-rule mapping**.
+
+The case study documents a sanitized architecture for processing invoice and contract events without exposing credentials, customer data or production secrets.
+
+[**Read the technical case study →**](./case-studies/payment-webhook-automation.md)
+
+`Webhooks` `Idempotency` `Automation` `Data Stores` `Business Rules`
+
 ## 🌐 Selected live web projects
 
 | Project | Focus | Live |
