@@ -17,6 +17,17 @@ I build **automation tools, web experiences and AI-assisted projects**, combinin
 
 My goal is to grow through a **technology internship** where I can contribute with automation, software development and AI while learning from an experienced engineering team.
 
+## ⚡ Recruiter quick scan
+
+| | |
+|---|---|
+| **Education** | Higher Technology Degree in Artificial Intelligence — expected December 2027. |
+| **Looking for** | Internship in Software Development, Artificial Intelligence or Automation. |
+| **Strongest code project** | Tiny Desktop Automation — Python desktop app with architecture docs, testing plan, GitHub Actions and Dependabot. |
+| **Delivery proof** | PurpleRBX live on Cloudflare plus public technical case studies on webhooks, idempotency, Workers and DNS troubleshooting. |
+| **Development style** | Requirements → implementation → testing → debugging → refinement → validation. |
+| **Currently strengthening** | Python foundations and JavaScript through courses and portfolio work. |
+
 ## 🚀 Featured projects
 
 <table>
@@ -31,6 +42,8 @@ Windows desktop automation tool built with **Python, Tkinter and PyAutoGUI**.
 - Saves local profiles
 - Uses keyboard hotkeys
 - Runs automation in background threads
+- Includes architecture and testing documentation
+- Uses GitHub Actions and Dependabot
 - Developed and refined with Codex Sol
 
 [**View repository →**](https://github.com/MiguelHenriqueAIDEV/tiny-desktop-automation)
