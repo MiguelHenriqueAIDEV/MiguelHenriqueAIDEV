@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Miguel Henrique — AI & Automation Developer</title>
-  <desc id="desc">Dark purple technology banner for Miguel Henrique's GitHub profile.</desc>
+  <title id="title">Miguel Henrique - Artificial Intelligence, Automation and Software</title>
+  <desc id="desc">Dark purple technology banner presenting Miguel Henrique as an Artificial Intelligence undergraduate open to technology internships.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#09090b"/>
@@ -31,13 +31,13 @@
   </g>
   <rect x="70" y="66" width="74" height="5" rx="3" fill="url(#accent)"/>
   <text x="70" y="133" fill="#fafafa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="750" letter-spacing="1">MIGUEL HENRIQUE</text>
-  <text x="72" y="181" fill="#c4b5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" letter-spacing="2.4">AI &amp; AUTOMATION DEVELOPER</text>
-  <text x="72" y="234" fill="#d4d4d8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="450">AI Technology Undergraduate · Building practical products with code + AI</text>
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" letter-spacing="1.1">
-    <rect x="70" y="277" width="90" height="32" rx="16" fill="#ffffff" opacity="0.07"/><text x="93" y="298" fill="#e9d5ff">AI</text>
-    <rect x="172" y="277" width="132" height="32" rx="16" fill="#ffffff" opacity="0.07"/><text x="195" y="298" fill="#e9d5ff">AUTOMATION</text>
-    <rect x="316" y="277" width="94" height="32" rx="16" fill="#ffffff" opacity="0.07"/><text x="339" y="298" fill="#e9d5ff">WEB</text>
-    <rect x="422" y="277" width="108" height="32" rx="16" fill="#ffffff" opacity="0.07"/><text x="445" y="298" fill="#e9d5ff">CLOUD</text>
+  <text x="72" y="181" fill="#c4b5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" letter-spacing="2.2">AI · AUTOMATION · SOFTWARE</text>
+  <text x="72" y="234" fill="#d4d4d8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="450">Artificial Intelligence Undergraduate · Open to Technology Internships</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650" letter-spacing="1.0">
+    <rect x="70" y="277" width="112" height="32" rx="16" fill="#ffffff" opacity="0.07"/><text x="93" y="298" fill="#e9d5ff">PYTHON</text>
+    <rect x="194" y="277" width="132" height="32" rx="16" fill="#ffffff" opacity="0.07"/><text x="217" y="298" fill="#e9d5ff">AUTOMATION</text>
+    <rect x="338" y="277" width="90" height="32" rx="16" fill="#ffffff" opacity="0.07"/><text x="370" y="298" fill="#e9d5ff">AI</text>
+    <rect x="440" y="277" width="94" height="32" rx="16" fill="#ffffff" opacity="0.07"/><text x="463" y="298" fill="#e9d5ff">WEB</text>
   </g>
   <rect x="0.5" y="0.5" width="1199" height="359" rx="27.5" fill="none" stroke="#8b5cf6" stroke-opacity="0.20"/>
 </svg>
