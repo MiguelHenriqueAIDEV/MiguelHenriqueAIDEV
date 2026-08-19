@@ -164,6 +164,7 @@ I'm strengthening the fundamentals that appear repeatedly in technology internsh
 
 ## 📌 Quick links
 
+- **CV (PDF):** [Download / open](./assets/Miguel-Henrique-CV.pdf)
 - **GitHub CV:** [Open CV](./CV.md)
 - **Tiny Desktop Automation:** https://github.com/MiguelHenriqueAIDEV/tiny-desktop-automation
 - **PurpleRBX:** https://github.com/MiguelHenriqueAIDEV/purple-rbx
