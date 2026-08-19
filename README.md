@@ -24,7 +24,8 @@ My goal is to grow through a **technology internship** where I can contribute wi
 | **Education** | Higher Technology Degree in Artificial Intelligence — expected December 2027. |
 | **Looking for** | Internship in Software Development, Artificial Intelligence or Automation. |
 | **Strongest code project** | Tiny Desktop Automation — Python desktop app with architecture docs, testing plan, GitHub Actions and Dependabot. |
-| **Delivery proof** | PurpleRBX live on Cloudflare plus public technical case studies on webhooks, idempotency, Workers and DNS troubleshooting. |
+| **Backend / integration proof** | Sanitized Cloudflare Worker case study with Discord OAuth2, CSRF, AES-GCM session state, timeouts and a validation webhook. |
+| **Delivery proof** | PurpleRBX live on Cloudflare plus technical case studies on webhooks, idempotency, Workers and DNS troubleshooting. |
 | **Development style** | Requirements → implementation → testing → debugging → refinement → validation. |
 | **Currently strengthening** | Python foundations and JavaScript through courses and portfolio work. |
 
@@ -67,6 +68,22 @@ Sales-focused landing page developed through an **AI-assisted web development wo
 </table>
 
 ## 🔗 Technical case studies
+
+### 🔐 Discord OAuth + Webhook Access Worker
+
+Portfolio-safe derivative of a real integration built with **Cloudflare Workers + Discord OAuth2 + encrypted short-lived session state + webhook validation**.
+
+- CSRF protection and same-site checks
+- OAuth `state` validation
+- AES-GCM + HKDF session encryption
+- outbound request timeouts
+- strict security headers
+- sanitized executable source code
+- architecture and security documentation
+
+[**Open source case study →**](./case-studies/discord-oauth-webhook-worker/README.md)
+
+`JavaScript` `Cloudflare Workers` `OAuth2` `Webhooks` `Security`
 
 <table>
 <tr>
@@ -112,15 +129,16 @@ Deployment case study covering **Cloudflare Workers, custom domains, DNS conflic
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-Building_%26_Learning-18181B?style=flat-square&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning_%26_Project_Work-18181B?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-18181B?style=flat-square&logo=cloudflare)
 ![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github)
 ![Automation](https://img.shields.io/badge/Automation-18181B?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2-18181B?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-18181B?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-18181B?style=flat-square)
 ![Codex](https://img.shields.io/badge/Codex-18181B?style=flat-square&logo=openai)
-![Base44](https://img.shields.io/badge/Base44-18181B?style=flat-square)
-![Lovable](https://img.shields.io/badge/Lovable-18181B?style=flat-square)
 
 </div>
 
@@ -180,6 +198,7 @@ I'm strengthening the fundamentals that appear repeatedly in technology internsh
 - **CV (PDF):** [Download / open](./assets/Miguel-Henrique-CV.pdf)
 - **GitHub CV:** [Open CV](./CV.md)
 - **Tiny Desktop Automation:** https://github.com/MiguelHenriqueAIDEV/tiny-desktop-automation
+- **Discord OAuth Worker case study:** [Open](./case-studies/discord-oauth-webhook-worker/README.md)
 - **PurpleRBX:** https://github.com/MiguelHenriqueAIDEV/purple-rbx
 - **PurpleRBX Live:** https://purplerbx.pages.dev/
 
