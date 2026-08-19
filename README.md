@@ -11,7 +11,7 @@
 
 ## 👋 About me
 
-I'm **Miguel Henrique**, an Artificial Intelligence Technology undergraduate focused on turning ideas into practical software products.
+I'm **Miguel Henrique**, an Artificial Intelligence Technology undergraduate at **Universidade Cruzeiro do Sul**, focused on turning ideas into practical software products.
 
 I build **automation tools, web experiences and AI-assisted projects**, combining hands-on testing with prompt-driven development, debugging, integrations and deployment.
 
@@ -65,22 +65,33 @@ Sales-focused landing page developed through an **AI-assisted web development wo
 
 ## 🧰 Skills & tools
 
+### Practical experience
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-Building_%26_Learning-18181B?style=flat-square&logo=python&logoColor=FFD43B)
 ![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-18181B?style=flat-square&logo=cloudflare)
 ![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github)
 ![Automation](https://img.shields.io/badge/Automation-18181B?style=flat-square)
-![APIs](https://img.shields.io/badge/APIs-18181B?style=flat-square)
-![Webhooks](https://img.shields.io/badge/Webhooks-18181B?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-18181B?style=flat-square)
 ![Codex](https://img.shields.io/badge/Codex-18181B?style=flat-square&logo=openai)
 ![Base44](https://img.shields.io/badge/Base44-18181B?style=flat-square)
 ![Lovable](https://img.shields.io/badge/Lovable-18181B?style=flat-square)
 
 </div>
+
+### Currently learning
+
+<div align="center">
+
+![Python Course](https://img.shields.io/badge/Python-Udemy_in_progress-18181B?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Meta_%2F_Coursera_in_progress-18181B?style=flat-square&logo=javascript)
+
+</div>
+
+Additional areas of interest and practice: **Artificial Intelligence, process automation, chatbots, data analysis, APIs, webhooks and cloud-based applications**.
 
 ## 🤖 How I work with AI
 
@@ -94,7 +105,9 @@ My workflow includes defining expected behavior, writing structured prompts, rev
 
 ## 🎯 Career focus
 
-I'm especially interested in internship opportunities involving:
+I'm looking for an **internship in Software Development, Artificial Intelligence or Automation** where I can apply what I'm learning, contribute to real projects and grow alongside an experienced technology team.
+
+I'm especially interested in:
 
 - Software development
 - Artificial Intelligence
@@ -106,7 +119,13 @@ I'm especially interested in internship opportunities involving:
 ## 🎓 Education
 
 **Higher Technology Degree in Artificial Intelligence**  
-Expected completion: **December 2027**
+**Universidade Cruzeiro do Sul**  
+2026 — **Expected completion: December 2027**
+
+### Courses in progress
+
+- **Python** — Udemy
+- **JavaScript** — Meta / Coursera
 
 ## 📌 What I'm building next
 
