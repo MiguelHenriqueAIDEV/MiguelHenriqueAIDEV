@@ -1,142 +1,123 @@
 <div align="center">
 
-# 👋 Hi, I'm Miguel Henrique
+<img src="./assets/profile-banner.svg" alt="Miguel Henrique — AI & Automation Developer" width="100%" />
 
-### AI & Automation Developer
+<br>
 
-**Artificial Intelligence • Web Development • Automation • Cloud**
+[![Open to Internship Opportunities](https://img.shields.io/badge/Open_to-Internship_Opportunities-8B5CF6?style=for-the-badge)](#-career-focus)
+[![AI Technology Undergraduate](https://img.shields.io/badge/AI_Technology-Undergraduate-18181B?style=for-the-badge)](#-education)
 
-I build web experiences, automations and digital products using traditional development combined with AI-assisted workflows.
+</div>
 
-From **prompt engineering and prototyping** to **debugging, integrations and deployment**, I use AI as a development tool to turn ideas into working products.
+## 👋 About me
 
----
+I'm **Miguel Henrique**, an Artificial Intelligence Technology undergraduate focused on turning ideas into practical software products.
 
-### 🧠 Tech & Tools
+I build **automation tools, web experiences and AI-assisted projects**, combining hands-on testing with prompt-driven development, debugging, integrations and deployment.
 
-<p align="center">
+My goal is to grow through a **technology internship** where I can contribute with automation, software development and AI while learning from an experienced engineering team.
 
-<img src="https://img.shields.io/badge/AI_Assisted-Development-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI-Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+## 🚀 Featured projects
 
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
+### 🖱️ Tiny Desktop Automation
 
-<img src="https://img.shields.io/badge/Base44-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Lovable-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/APIs-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Webhooks-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Automation-8B5CF6?style=flat-square" />
+Windows desktop automation tool built with **Python, Tkinter and PyAutoGUI**.
 
-</p>
+- Captures mouse coordinates
+- Saves local profiles
+- Uses keyboard hotkeys
+- Runs automation in background threads
+- Developed and refined with Codex Sol
 
----
+[**View repository →**](https://github.com/MiguelHenriqueAIDEV/tiny-desktop-automation)
 
-## 🚀 Featured Projects
+</td>
+<td width="50%" valign="top">
 
 ### 🟣 PurpleRBX
 
-Sales-focused landing page developed through an **AI-assisted development workflow**, from initial concept and prompt engineering to refinement and deployment.
+Sales-focused landing page developed through an **AI-assisted web development workflow** and deployed with Cloudflare.
 
-**Live:** https://purplerbx.pages.dev/
+- Conversion-oriented web experience
+- Prompt-driven iteration
+- UI refinement and testing
+- Live deployment
 
-`AI-Assisted Development` `Codex` `Cloudflare Pages`
+[**View repository →**](https://github.com/MiguelHenriqueAIDEV/purple-rbx) · [**Live site →**](https://purplerbx.pages.dev/)
 
----
+</td>
+</tr>
+</table>
 
-### 🦁 LionStorm
+## 🌐 Selected live web projects
 
-Commercial web project focused on presenting a product/service through a modern sales experience.
+| Project | Focus | Live |
+|---|---|---|
+| **PurpleRBX** | Sales landing page | [Open](https://purplerbx.pages.dev/) |
+| **LionStorm** | Commercial web project | [Open](https://lionstorm.base44.app) |
+| **Ride Revel** | AI-assisted web experience | [Open](https://ride-revel-front.lovable.app/) |
+| **Xbox Game Pass Store** | Sales-oriented web project | [Open](https://lojaxboxgamepass.lovable.app) |
+| **Ruby Peak Growth Lab** | Commercial landing page | [Open](https://ruby-peak-growth-lab.base44.app/) |
 
-**Live:** https://lionstorm.base44.app
+## 🧰 Skills & tools
 
-`AI-Assisted Development` `Base44` `Codex`
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-18181B?style=flat-square&logo=cloudflare)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github)
+![Automation](https://img.shields.io/badge/Automation-18181B?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-18181B?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-18181B?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-18181B?style=flat-square&logo=openai)
+![Base44](https://img.shields.io/badge/Base44-18181B?style=flat-square)
+![Lovable](https://img.shields.io/badge/Lovable-18181B?style=flat-square)
 
-### 🚗 Ride Revel
+</div>
 
-Web experience developed with an AI-assisted workflow, focusing on interface creation and rapid product prototyping.
+## 🤖 How I work with AI
 
-**Live:** https://ride-revel-front.lovable.app/
+I use AI as a **development accelerator**, not as a substitute for validation.
 
-`AI-Assisted Development` `Lovable` `Codex`
+```text
+Problem → Requirements → Prompt → Prototype → Test → Debug → Refine → Deploy
+```
 
----
+My workflow includes defining expected behavior, writing structured prompts, reviewing generated implementations, testing real behavior, correcting issues and iterating until the result works as intended.
 
-### 🎮 Xbox Game Pass Store
+## 🎯 Career focus
 
-Sales-oriented web project built with AI-assisted development tools.
+I'm especially interested in internship opportunities involving:
 
-**Live:** https://lojaxboxgamepass.lovable.app
+- Software development
+- Artificial Intelligence
+- Automation and internal tools
+- Web development
+- APIs and integrations
+- Cloud-based applications
 
-`AI-Assisted Development` `Lovable` `Codex`
+## 🎓 Education
 
----
+**Higher Technology Degree in Artificial Intelligence**  
+Expected completion: **December 2027**
 
-### 💎 Ruby Peak Growth Lab
+## 📌 What I'm building next
 
-Commercial landing page built through an AI-assisted web development workflow.
-
-**Live:** https://ruby-peak-growth-lab.base44.app/
-
-`AI-Assisted Development` `Base44` `Codex`
-
----
-
-## 🤖 AI-Assisted Development
-
-AI is part of my development workflow — not just the final generation step.
-
-My process includes:
-
-**01 · Idea & Requirements**
-Defining the problem, objectives and expected user experience.
-
-**02 · Prompt Engineering**
-Creating structured prompts with technical, visual and business requirements.
-
-**03 · Prototyping**
-Using tools such as Codex, Base44 and Lovable to accelerate development.
-
-**04 · Review & Refinement**
-Testing generated implementations, identifying problems and refining prompts/code.
-
-**05 · Integration**
-Working with APIs, webhooks, external platforms and automation workflows when required.
-
-**06 · Deployment**
-Publishing and configuring projects using platforms such as Cloudflare.
-
----
-
-## ⚡ What I Like Building
-
-* 🤖 AI-powered projects
-* ⚙️ Process automation
-* 🌐 Landing pages & web applications
-* 🔗 API and webhook integrations
-* ☁️ Cloud deployments
-* 🧠 AI-assisted development workflows
-
----
-
-## 🎓 Currently
-
-Studying **Artificial Intelligence Technology** and continuously building practical projects involving AI, automation and software development.
+I'm continuously improving this portfolio with real project documentation, source code when publishable, screenshots, prompt-engineering logs and technical case studies.
 
 ---
 
 <div align="center">
 
-### Building ideas into working products.
+### Building practical products with code + AI.
 
-`AI` • `Automation` • `Web` • `Cloud`
+**AI · Automation · Web · Cloud**
 
 </div>
