@@ -1,0 +1,6 @@
+DISCORD_CLIENT_ID="your-discord-client-id"
+DISCORD_CLIENT_SECRET="development-secret-only"
+DISCORD_REDIRECT_URI="https://example.com/api/discord/callback"
+DISCORD_LINK_SESSION_SECRET="generate-a-long-random-secret"
+VALIDATION_WEBHOOK_URL="https://example.com/validation-webhook"
+VALIDATION_WEBHOOK_API_KEY="development-api-key"
