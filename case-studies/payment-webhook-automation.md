@@ -22,25 +22,20 @@ The automation needed to:
 
 ## Architecture
 
-```text
-Payment Platform
-      ↓
-Custom Webhook
-      ↓
-Event ID Check
-      ↓
-Idempotency Store
-      ↓
-Router
-  ┌───┴──────────────┐
-  ↓                  ↓
-Invoice Events   Contract Events
-  ↓                  ↓
-Customer Upsert  Customer Upsert
-  ↓                  ↓
-Invoice Upsert   Contract Upsert
-  ↓                  ↓
-Financial State  Access State
+```mermaid
+flowchart TD
+    A[Payment Platform] --> B[Custom Webhook]
+    B --> C[Extract Event ID]
+    C --> D{Already processed?}
+    D -- Yes --> E[Stop duplicate processing]
+    D -- No --> F[Persist Event ID]
+    F --> G{Route event type}
+    G -- Invoice --> H[Customer Upsert]
+    H --> I[Invoice Upsert]
+    I --> J[Financial State]
+    G -- Contract --> K[Customer Upsert]
+    K --> L[Contract Upsert]
+    L --> M[Access State]
 ```
 
 ## Persistent data model
