@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Miguel Henrique — AI & Automation Developer" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Miguel Henrique — Artificial Intelligence, Automation and Software" width="100%" />
 
 <br>
 
