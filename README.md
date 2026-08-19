@@ -139,16 +139,18 @@ I'm especially interested in:
 - **Python** — Udemy
 - **JavaScript** — Meta / Coursera
 
+## 📚 Learning roadmap
+
+I'm strengthening the fundamentals that appear repeatedly in technology internship roles while keeping current skills and future priorities clearly separated.
+
+[**View technical learning roadmap →**](./LEARNING_ROADMAP.md)
+
 ## 📌 Quick links
 
 - **GitHub Profile:** https://github.com/MiguelHenriqueAIDEV
 - **Tiny Desktop Automation:** https://github.com/MiguelHenriqueAIDEV/tiny-desktop-automation
 - **PurpleRBX:** https://github.com/MiguelHenriqueAIDEV/purple-rbx
 - **PurpleRBX Live:** https://purplerbx.pages.dev/
-
-## 📌 What I'm building next
-
-I'm continuously improving this portfolio with real project documentation, source code when publishable, screenshots, prompt-engineering logs and technical case studies.
 
 ---
 
