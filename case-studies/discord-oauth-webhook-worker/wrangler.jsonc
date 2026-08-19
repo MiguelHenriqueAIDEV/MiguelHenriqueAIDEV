@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "discord-oauth-webhook-worker",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-08-19",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": {
+    "enabled": true
+  }
+}
