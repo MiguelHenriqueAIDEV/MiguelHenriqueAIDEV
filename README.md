@@ -53,17 +53,34 @@ Sales-focused landing page developed through an **AI-assisted web development wo
 </tr>
 </table>
 
-## 🔗 Technical case study
+## 🔗 Technical case studies
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Payment Webhook Automation
 
-Event-driven payment automation focused on **webhooks, idempotency, persistent state and business-rule mapping**.
+Event-driven automation focused on **webhooks, idempotency, persistent state and business-rule mapping**.
 
-The case study documents a sanitized architecture for processing invoice and contract events without exposing credentials, customer data or production secrets.
+[**Read case study →**](./case-studies/payment-webhook-automation.md)
 
-[**Read the technical case study →**](./case-studies/payment-webhook-automation.md)
+`Webhooks` `Idempotency` `Data Stores` `Business Rules`
 
-`Webhooks` `Idempotency` `Automation` `Data Stores` `Business Rules`
+</td>
+<td width="50%" valign="top">
+
+### Cloudflare Worker + Custom Domain
+
+Deployment case study covering **Cloudflare Workers, custom domains, DNS conflicts and production troubleshooting**.
+
+[**Read case study →**](./case-studies/cloudflare-worker-custom-domain.md)
+
+`Cloudflare` `Workers` `DNS` `Deployment`
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Selected live web projects
 
