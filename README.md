@@ -17,17 +17,17 @@ I build **automation tools, web experiences and AI-assisted projects**, combinin
 
 My goal is to grow through a **technology internship** where I can contribute with automation, software development and AI while learning from an experienced engineering team.
 
-## ⚡ Recruiter quick scan
+## ⚡ Profile overview
 
 | | |
 |---|---|
 | **Education** | Higher Technology Degree in Artificial Intelligence — expected December 2027. |
-| **Looking for** | Internship in Software Development, Artificial Intelligence or Automation. |
-| **Strongest code project** | Tiny Desktop Automation — Python desktop app with architecture docs, testing plan, GitHub Actions and Dependabot. |
-| **Backend / integration proof** | Sanitized Cloudflare Worker case study with Discord OAuth2, CSRF, AES-GCM session state, timeouts and a validation webhook. |
-| **Delivery proof** | Live web products including AXION Pay and PurpleRBX, plus technical case studies on webhooks, Workers and DNS troubleshooting. |
-| **Development style** | Requirements → implementation → testing → debugging → refinement → validation. |
-| **Currently strengthening** | Python foundations and JavaScript through courses and portfolio work. |
+| **Target roles** | Internship in Software Development, Artificial Intelligence or Automation. |
+| **Projects** | Desktop automation, payment integrations, web applications and technical case studies. |
+| **Backend & integrations** | Cloudflare Workers, OAuth2, webhooks, session security and API-oriented workflows. |
+| **Deployment** | Cloudflare, custom domains, live web applications and production troubleshooting. |
+| **Development workflow** | Requirements → implementation → testing → debugging → refinement → validation. |
+| **Current learning** | Python foundations and JavaScript through courses and portfolio work. |
 
 ## 🚀 Featured projects
 
