@@ -25,11 +25,26 @@ My goal is to grow through a **technology internship** where I can contribute wi
 | **Looking for** | Internship in Software Development, Artificial Intelligence or Automation. |
 | **Strongest code project** | Tiny Desktop Automation — Python desktop app with architecture docs, testing plan, GitHub Actions and Dependabot. |
 | **Backend / integration proof** | Sanitized Cloudflare Worker case study with Discord OAuth2, CSRF, AES-GCM session state, timeouts and a validation webhook. |
-| **Delivery proof** | PurpleRBX live on Cloudflare plus technical case studies on webhooks, idempotency, Workers and DNS troubleshooting. |
+| **Delivery proof** | AXION Pay live with a PIX gateway, developer documentation and dashboard, plus PurpleRBX and technical deployment case studies. |
 | **Development style** | Requirements → implementation → testing → debugging → refinement → validation. |
 | **Currently strengthening** | Python foundations and JavaScript through courses and portfolio work. |
 
 ## 🚀 Featured projects
+
+### 💳 AXION Pay — PIX Payment Gateway
+
+Payment product focused on **PIX integrations**, combining the public gateway experience, developer-facing documentation and an operational dashboard in one live platform.
+
+- Live PIX payment gateway
+- Dedicated integration documentation
+- Operational payment dashboard
+- Developer-focused product experience
+- Custom production domain
+- Built as a complete product rather than an isolated interface
+
+[**Open AXION Pay →**](https://pay.axionenterprise.cloud/) · [**Developer docs →**](https://pay.axionenterprise.cloud/docs) · [**Dashboard →**](https://pay.axionenterprise.cloud/dashboard)
+
+`PIX` `Payments` `Integrations` `Dashboard` `Developer Documentation` `Web Development`
 
 <table>
 <tr>
@@ -116,6 +131,7 @@ Deployment case study covering **Cloudflare Workers, custom domains, DNS conflic
 
 | Project | Focus | Live |
 |---|---|---|
+| **AXION Pay** | PIX payment gateway and developer integration experience | [Open](https://pay.axionenterprise.cloud/) |
 | **PurpleRBX** | Sales landing page | [Open](https://purplerbx.pages.dev/) |
 | **LionStorm** | Commercial web project | [Open](https://lionstorm.base44.app) |
 | **Ride Revel** | AI-assisted web experience | [Open](https://ride-revel-front.lovable.app/) |
@@ -197,6 +213,9 @@ I'm strengthening the fundamentals that appear repeatedly in technology internsh
 
 - **CV (PDF):** [Download / open](./assets/Miguel-Henrique-CV.pdf)
 - **GitHub CV:** [Open CV](./CV.md)
+- **AXION Pay:** https://pay.axionenterprise.cloud/
+- **AXION Pay Docs:** https://pay.axionenterprise.cloud/docs
+- **AXION Pay Dashboard:** https://pay.axionenterprise.cloud/dashboard
 - **Tiny Desktop Automation:** https://github.com/MiguelHenriqueAIDEV/tiny-desktop-automation
 - **Discord OAuth Worker case study:** [Open](./case-studies/discord-oauth-webhook-worker/README.md)
 - **PurpleRBX:** https://github.com/MiguelHenriqueAIDEV/purple-rbx
