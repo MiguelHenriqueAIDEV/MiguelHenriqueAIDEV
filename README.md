@@ -25,30 +25,15 @@ My goal is to grow through a **technology internship** where I can contribute wi
 | **Looking for** | Internship in Software Development, Artificial Intelligence or Automation. |
 | **Strongest code project** | Tiny Desktop Automation — Python desktop app with architecture docs, testing plan, GitHub Actions and Dependabot. |
 | **Backend / integration proof** | Sanitized Cloudflare Worker case study with Discord OAuth2, CSRF, AES-GCM session state, timeouts and a validation webhook. |
-| **Delivery proof** | AXION Pay live with a PIX gateway, developer documentation and dashboard, plus PurpleRBX and technical deployment case studies. |
+| **Delivery proof** | Live web products including AXION Pay and PurpleRBX, plus technical case studies on webhooks, Workers and DNS troubleshooting. |
 | **Development style** | Requirements → implementation → testing → debugging → refinement → validation. |
 | **Currently strengthening** | Python foundations and JavaScript through courses and portfolio work. |
 
 ## 🚀 Featured projects
 
-### 💳 AXION Pay — PIX Payment Gateway
-
-Payment product focused on **PIX integrations**, combining the public gateway experience, developer-facing documentation and an operational dashboard in one live platform.
-
-- Live PIX payment gateway
-- Dedicated integration documentation
-- Operational payment dashboard
-- Developer-focused product experience
-- Custom production domain
-- Built as a complete product rather than an isolated interface
-
-[**Open AXION Pay →**](https://pay.axionenterprise.cloud/) · [**Developer docs →**](https://pay.axionenterprise.cloud/docs) · [**Dashboard →**](https://pay.axionenterprise.cloud/dashboard)
-
-`PIX` `Payments` `Integrations` `Dashboard` `Developer Documentation` `Web Development`
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🖱️ Tiny Desktop Automation
 
@@ -60,12 +45,11 @@ Windows desktop automation tool built with **Python, Tkinter and PyAutoGUI**.
 - Runs automation in background threads
 - Includes architecture and testing documentation
 - Uses GitHub Actions and Dependabot
-- Developed and refined with Codex Sol
 
 [**View repository →**](https://github.com/MiguelHenriqueAIDEV/tiny-desktop-automation)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🟣 PurpleRBX
 
@@ -77,6 +61,20 @@ Sales-focused landing page developed through an **AI-assisted web development wo
 - Live deployment
 
 [**View repository →**](https://github.com/MiguelHenriqueAIDEV/purple-rbx) · [**Live site →**](https://purplerbx.pages.dev/)
+
+</td>
+<td width="33%" valign="top">
+
+### 💳 AXION Pay
+
+PIX payment integration project combining a **live product experience, developer documentation and an operational dashboard**.
+
+- PIX-focused payment flow
+- Developer integration documentation
+- Operational dashboard
+- Live deployment on a custom domain
+
+[**Live platform →**](https://pay.axionenterprise.cloud/) · [**Docs →**](https://pay.axionenterprise.cloud/docs) · [**Dashboard →**](https://pay.axionenterprise.cloud/dashboard)
 
 </td>
 </tr>
